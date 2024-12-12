@@ -1,0 +1,18 @@
+{
+  "name": "ngx-rxjs-render-scheduler",
+  "version": "1.0.0",
+  "description": "Schedule RxJS operations to execute after Angular's next render cycle using the afterNextRender API",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wassim-k/ngx-rxjs-render-scheduler.git"
+  },
+  "peerDependencies": {
+    "@angular/core": ">=18.0.0",
+    "rxjs": ">=7.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
